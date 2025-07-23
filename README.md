@@ -11,7 +11,7 @@
 ---
 
 ## 🌱 About Me
-I'm a third-year student at the Faculty of Artificial Intelligence, Kafr El-Sheikh University, with a strong passion for data analytics and machine learning.
+I'm a Fourth-year student at the Faculty of Artificial Intelligence, Kafr El-Sheikh University, with a strong passion for data analytics and machine learning.
 I love turning raw data into actionable insights and building smart solutions to solve real-world problems.
 
 
