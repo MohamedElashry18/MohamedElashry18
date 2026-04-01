@@ -55,9 +55,13 @@ Feel free to reach out via:
 
 ---
 
-## 🛠️ Stats
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mohamedelashry18&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamedelashry18&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=MohamedElashry18&show_icons=true&theme=radical&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MohamedElashry18&layout=compact&theme=radical&hide_border=true" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=MohamedElashry18&theme=radical&hide_border=true" height="160"/>
 </p>
